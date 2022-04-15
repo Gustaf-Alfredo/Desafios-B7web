@@ -210,6 +210,31 @@ section#banner {
     background-color: #36a9e1;
     margin-top: 10px;
 }
+/*-----------------------------------------------------/**/
+.widget_body {
+    min-width: 300px;
+    margin-right: 30px;
+}
+
+.widget_body .box {
+    background-color: #2b3c99;
+    width: 130px;
+    height: 150px;
+    flex: auto;
+    
+}
+
+.widget_body .container_2  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+    max-width: 500px;
+}
+
+
+
+
 
 .flex {
     display: flex;
