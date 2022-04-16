@@ -447,11 +447,28 @@ footer .widget_title_text {
     }
 }
 
+/*------------------------------------------------------------*/
 
+div .widget-contact {
+    
+}
 
+div .widget-contact .img_contact img {
+    width: 40px;
+    height: 30px;
+}
 
+div .widget-contact .contato {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.425);
+    align-items: center;
 
+}
 
+div .widget-contact .contato .txt_contact {
+    font-size: 12px;
+}
 
 
 
